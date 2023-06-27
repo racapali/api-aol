@@ -1,4 +1,4 @@
-# api-accurate
+# api-aol
 
 ## Accurate.php
 ``` beri class untuk curl data ke accurate ```
